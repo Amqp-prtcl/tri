@@ -1,0 +1,3480 @@
+{
+  "": {
+    "Name": "",
+    "Brand": "MSE_ELECTRONIQUE",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "\"\"\"7\"\"\"\"\"\"\"": {
+    "Name": "\"\"\"7\"\"\"\"\"\"\"",
+    "Brand": "SEMCO",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "\"\"\"ASX6\"\"\"\"\"\"\"": {
+    "Name": "\"\"\"ASX6\"\"\"\"\"\"\"",
+    "Brand": "NOVACARE",
+    "Occurences": 11,
+    "Similar": {
+      "\"\"\"7\"\"\"\"\"\"\"": 2
+    }
+  },
+  "\"15\"\"\"": {
+    "Name": "\"15\"\"\"",
+    "Brand": "PHILIPS",
+    "Occurences": 1,
+    "Similar": {
+      "\"19\"\"\"": 1
+    }
+  },
+  "\"19\"\"\"": {
+    "Name": "\"19\"\"\"",
+    "Brand": "SAMSUNG",
+    "Occurences": 1,
+    "Similar": {
+      "\"15\"\"\"": 1
+    }
+  },
+  "\"TFT20\"\"\"": {
+    "Name": "\"TFT20\"\"\"",
+    "Brand": "DELL",
+    "Occurences": 4,
+    "Similar": {}
+  },
+  "/": {
+    "Name": "/",
+    "Brand": "MEDIPROM",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "045318": {
+    "Name": "045318",
+    "Brand": "DUTSCHER",
+    "Occurences": 1,
+    "Similar": {
+      "645318": 1
+    }
+  },
+  "0464-BV128": {
+    "Name": "0464-BV128",
+    "Brand": "OSG_BVBA_BRAINLAB",
+    "Occurences": 1,
+    "Similar": {
+      "0464-BV129": 1
+    }
+  },
+  "0464-BV129": {
+    "Name": "0464-BV129",
+    "Brand": "OSG_BVBA_BRAINLAB",
+    "Occurences": 1,
+    "Similar": {
+      "0464-BV128": 1
+    }
+  },
+  "10000MEDISOFT": {
+    "Name": "10000MEDISOFT",
+    "Brand": "FUKUDA",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "1002": {
+    "Name": "1002",
+    "Brand": "CORMIER",
+    "Occurences": 1,
+    "Similar": {
+      "P1002": 1
+    }
+  },
+  "100715": {
+    "Name": "100715",
+    "Brand": "OTOPRONT",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "1085": {
+    "Name": "1085",
+    "Brand": "EPRIS",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "113262": {
+    "Name": "113262",
+    "Brand": "HANSRUPOCPH",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "115": {
+    "Name": "115",
+    "Brand": "FLUKE",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "123": {
+    "Name": "123",
+    "Brand": "FLUKE",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "1280": {
+    "Name": "1280",
+    "Brand": "COMPAQ",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "17-POUCES": {
+    "Name": "17-POUCES",
+    "Brand": "SEMCO",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "1707FPV": {
+    "Name": "1707FPV",
+    "Brand": "DELL",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "1707PVT": {
+    "Name": "1707PVT",
+    "Brand": "DELL",
+    "Occurences": 2,
+    "Similar": {
+      "1707FPV": 1
+    }
+  },
+  "18467": {
+    "Name": "18467",
+    "Brand": "SORIN",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "2007FPB": {
+    "Name": "2007FPB",
+    "Brand": "DELL",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "200MM": {
+    "Name": "200MM",
+    "Brand": "FISHER_BIOBLOCK",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "20709WB": {
+    "Name": "20709WB",
+    "Brand": "DELL",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "20820": {
+    "Name": "20820",
+    "Brand": "AXIS",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "213PTZ": {
+    "Name": "213PTZ",
+    "Brand": "AXIS",
+    "Occurences": 1,
+    "Similar": {
+      "214PTZ": 1
+    }
+  },
+  "214PTZ": {
+    "Name": "214PTZ",
+    "Brand": "AXIS",
+    "Occurences": 1,
+    "Similar": {
+      "213PTZ": 1
+    }
+  },
+  "220": {
+    "Name": "220",
+    "Brand": "NOVACARE",
+    "Occurences": 64,
+    "Similar": {}
+  },
+  "232": {
+    "Name": "232",
+    "Brand": "SECA",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "23H40": {
+    "Name": "23H40",
+    "Brand": "DANTEC",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "24'": {
+    "Name": "24'",
+    "Brand": "DELL",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "2408WFP": {
+    "Name": "2408WFP",
+    "Brand": "DELL",
+    "Occurences": 5,
+    "Similar": {}
+  },
+  "2550": {
+    "Name": "2550",
+    "Brand": "TIMAS_ANS_INFO",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "264": {
+    "Name": "264",
+    "Brand": "VILLARD",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "279-008": {
+    "Name": "279-008",
+    "Brand": "MOTOMED",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "29753": {
+    "Name": "29753",
+    "Brand": "MEDIQ",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "30ER24": {
+    "Name": "30ER24",
+    "Brand": "MEDISOFT",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "318.69A": {
+    "Name": "318.69A",
+    "Brand": "KERN",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "3186": {
+    "Name": "3186",
+    "Brand": "VILLARD",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "3229": {
+    "Name": "3229",
+    "Brand": "KINETEC",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "32FC1": {
+    "Name": "32FC1",
+    "Brand": "MICROMED",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "335": {
+    "Name": "335",
+    "Brand": "SECA",
+    "Occurences": 16,
+    "Similar": {}
+  },
+  "336": {
+    "Name": "336",
+    "Brand": "SECA",
+    "Occurences": 98,
+    "Similar": {
+      "335": 16
+    }
+  },
+  "3530USB": {
+    "Name": "3530USB",
+    "Brand": "HEWLETT_PACKARD",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "440": {
+    "Name": "440",
+    "Brand": "NOVACARE",
+    "Occurences": 30,
+    "Similar": {
+      "470": 1
+    }
+  },
+  "4600": {
+    "Name": "4600",
+    "Brand": "MEDIPREMA",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "470": {
+    "Name": "470",
+    "Brand": "HEWLETT_PACKARD",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "49080001164": {
+    "Name": "49080001164",
+    "Brand": "MAG2HEALTH",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "4VIEW": {
+    "Name": "4VIEW",
+    "Brand": "SYNAPSYS",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "5000Q/200J": {
+    "Name": "5000Q/200J",
+    "Brand": "MICROMED",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "5008": {
+    "Name": "5008",
+    "Brand": "FRESENIUS",
+    "Occurences": 25,
+    "Similar": {
+      "6008": 9
+    }
+  },
+  "542469": {
+    "Name": "542469",
+    "Brand": "TMH",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "54POL": {
+    "Name": "54POL",
+    "Brand": "SCHILLER",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "5810": {
+    "Name": "5810",
+    "Brand": "DELL",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "6008": {
+    "Name": "6008",
+    "Brand": "FRESENIUS",
+    "Occurences": 9,
+    "Similar": {}
+  },
+  "635": {
+    "Name": "635",
+    "Brand": "SECA",
+    "Occurences": 1,
+    "Similar": {
+      "335": 16,
+      "665": 1
+    }
+  },
+  "645318": {
+    "Name": "645318",
+    "Brand": "DUTSCHER",
+    "Occurences": 1,
+    "Similar": {
+      "045318": 1
+    }
+  },
+  "657": {
+    "Name": "657",
+    "Brand": "SECA",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "665": {
+    "Name": "665",
+    "Brand": "SECA",
+    "Occurences": 1,
+    "Similar": {
+      "635": 1
+    }
+  },
+  "684391": {
+    "Name": "684391",
+    "Brand": "GROUPE_GAILLARD",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "684392": {
+    "Name": "684392",
+    "Brand": "SECA",
+    "Occurences": 7,
+    "Similar": {
+      "684391": 1
+    }
+  },
+  "684400": {
+    "Name": "684400",
+    "Brand": "GROUPE_GAILLARD",
+    "Occurences": 2,
+    "Similar": {
+      "684433": 1,
+      "684438": 1,
+      "M4400": 1
+    }
+  },
+  "684433": {
+    "Name": "684433",
+    "Brand": "WALDMANN",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "684438": {
+    "Name": "684438",
+    "Brand": "WALDMANN",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "704": {
+    "Name": "704",
+    "Brand": "SECA",
+    "Occurences": 12,
+    "Similar": {}
+  },
+  "717": {
+    "Name": "717",
+    "Brand": "SECA",
+    "Occurences": 14,
+    "Similar": {}
+  },
+  "747": {
+    "Name": "747",
+    "Brand": "SECA",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "757": {
+    "Name": "757",
+    "Brand": "SECA",
+    "Occurences": 22,
+    "Similar": {
+      "657": 1,
+      "717": 14,
+      "747": 1
+    }
+  },
+  "761": {
+    "Name": "761",
+    "Brand": "SECA",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "762015101": {
+    "Name": "762015101",
+    "Brand": "MSE_ELECTRONIQUE",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "772": {
+    "Name": "772",
+    "Brand": "SECA",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "861": {
+    "Name": "861",
+    "Brand": "SECA",
+    "Occurences": 9,
+    "Similar": {
+      "761": 1
+    }
+  },
+  "876": {
+    "Name": "876",
+    "Brand": "SECA",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "877": {
+    "Name": "877",
+    "Brand": "SECA",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "878": {
+    "Name": "878",
+    "Brand": "SECA",
+    "Occurences": 35,
+    "Similar": {
+      "876": 1,
+      "877": 1,
+      "888": 2
+    }
+  },
+  "888": {
+    "Name": "888",
+    "Brand": "SECA",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "909": {
+    "Name": "909",
+    "Brand": "SECA",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "954": {
+    "Name": "954",
+    "Brand": "SECA",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "956": {
+    "Name": "956",
+    "Brand": "SECA",
+    "Occurences": 26,
+    "Similar": {
+      "954": 1,
+      "958": 18
+    }
+  },
+  "958": {
+    "Name": "958",
+    "Brand": "SECA",
+    "Occurences": 18,
+    "Similar": {}
+  },
+  "980CXI": {
+    "Name": "980CXI",
+    "Brand": "HEWLETT_PACKARD",
+    "Occurences": 1,
+    "Similar": {
+      "HP970CXI": 1
+    }
+  },
+  "9999999999": {
+    "Name": "9999999999",
+    "Brand": "DELL",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "A-100": {
+    "Name": "A-100",
+    "Brand": "JAHAN",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "A210PU": {
+    "Name": "A210PU",
+    "Brand": "ST_GERMAIN_PLASTIQUE",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "ACCUSCREEN": {
+    "Name": "ACCUSCREEN",
+    "Brand": "MADSEN",
+    "Occurences": 3,
+    "Similar": {
+      "ACCUSCREEN-PRO": 1,
+      "ACCUSCREENTE": 1,
+      "ECHOSCREEN": 1
+    }
+  },
+  "ACCUSCREEN-PRO": {
+    "Name": "ACCUSCREEN-PRO",
+    "Brand": "OTOMETRICS",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "ACCUSCREENTE": {
+    "Name": "ACCUSCREENTE",
+    "Brand": "NATUS_MADSEN",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "ACQUISITION": {
+    "Name": "ACQUISITION",
+    "Brand": "OSG_BVBA_BRAINLAB",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "ACR": {
+    "Name": "ACR",
+    "Brand": "ATC_MESURES",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "ACTIGRAPH-WGT3X": {
+    "Name": "ACTIGRAPH-WGT3X",
+    "Brand": "TSP_DIFFUSION",
+    "Occurences": 5,
+    "Similar": {}
+  },
+  "ACTIWATCH-PLUS": {
+    "Name": "ACTIWATCH-PLUS",
+    "Brand": "CAMBRIDGE",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "AD6": {
+    "Name": "AD6",
+    "Brand": "ATOMISOR",
+    "Occurences": 1,
+    "Similar": {
+      "ADD": 1
+    }
+  },
+  "AD629D": {
+    "Name": "AD629D",
+    "Brand": "AMM_ORL",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "ADAPTABLE-MAXILIFT": {
+    "Name": "ADAPTABLE-MAXILIFT",
+    "Brand": "ARJO",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "ADD": {
+    "Name": "ADD",
+    "Brand": "ATOMISOR",
+    "Occurences": 1,
+    "Similar": {
+      "AD6": 1
+    }
+  },
+  "AED3": {
+    "Name": "AED3",
+    "Brand": "ZOLL",
+    "Occurences": 4,
+    "Similar": {}
+  },
+  "AGILIA_SP_FR": {
+    "Name": "AGILIA_SP_FR",
+    "Brand": "FRESENIUS",
+    "Occurences": 41,
+    "Similar": {}
+  },
+  "AH4": {
+    "Name": "AH4",
+    "Brand": "PHYMEP",
+    "Occurences": 9,
+    "Similar": {
+      "AW4": 2
+    }
+  },
+  "AIRWALK-160": {
+    "Name": "AIRWALK-160",
+    "Brand": "MSE_ELECTRONIQUE",
+    "Occurences": 1,
+    "Similar": {
+      "AIRWALK-70160": 1,
+      "AIRWALK-COS1260700": 1
+    }
+  },
+  "AIRWALK-70160": {
+    "Name": "AIRWALK-70160",
+    "Brand": "MSE_ELECTRONIQUE",
+    "Occurences": 1,
+    "Similar": {
+      "AIRWALK-160": 1,
+      "AIRWALK-COS1260700": 1
+    }
+  },
+  "AIRWALK-COS1260700": {
+    "Name": "AIRWALK-COS1260700",
+    "Brand": "MSE_ELECTRONIQUE",
+    "Occurences": 1,
+    "Similar": {
+      "AIRWALK-160": 1,
+      "AIRWALK-70160": 1
+    }
+  },
+  "ALICE-6": {
+    "Name": "ALICE-6",
+    "Brand": "RESPIRONICS",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "ALPHA-770": {
+    "Name": "ALPHA-770",
+    "Brand": "SECA",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "AMP-440": {
+    "Name": "AMP-440",
+    "Brand": "NOVACARE",
+    "Occurences": 24,
+    "Similar": {}
+  },
+  "APM220": {
+    "Name": "APM220",
+    "Brand": "NOVACARE",
+    "Occurences": 57,
+    "Similar": {}
+  },
+  "APM400N": {
+    "Name": "APM400N",
+    "Brand": "NOVACARE",
+    "Occurences": 16,
+    "Similar": {}
+  },
+  "APM420": {
+    "Name": "APM420",
+    "Brand": "NOVACARE",
+    "Occurences": 27,
+    "Similar": {}
+  },
+  "APM440": {
+    "Name": "APM440",
+    "Brand": "NOVACARE",
+    "Occurences": 104,
+    "Similar": {
+      "AMP-440": 24,
+      "APM220": 57,
+      "APM400N": 16,
+      "APM420": 27,
+      "APM440+": 4,
+      "APM440N": 7,
+      "APM440X": 20,
+      "APM460": 20,
+      "APM460N": 4,
+      "APM460X": 4,
+      "APM_400": 2,
+      "APM_440+": 2
+    }
+  },
+  "APM440+": {
+    "Name": "APM440+",
+    "Brand": "NOVACARE",
+    "Occurences": 4,
+    "Similar": {}
+  },
+  "APM440N": {
+    "Name": "APM440N",
+    "Brand": "HOSPIDEX",
+    "Occurences": 7,
+    "Similar": {}
+  },
+  "APM440X": {
+    "Name": "APM440X",
+    "Brand": "NOVACARE",
+    "Occurences": 20,
+    "Similar": {}
+  },
+  "APM460": {
+    "Name": "APM460",
+    "Brand": "HOSPIDEX",
+    "Occurences": 20,
+    "Similar": {}
+  },
+  "APM460N": {
+    "Name": "APM460N",
+    "Brand": "HOSPIDEX",
+    "Occurences": 4,
+    "Similar": {}
+  },
+  "APM460X": {
+    "Name": "APM460X",
+    "Brand": "NOVACARE",
+    "Occurences": 4,
+    "Similar": {}
+  },
+  "APM_220": {
+    "Name": "APM_220",
+    "Brand": "NOVACARE",
+    "Occurences": 16,
+    "Similar": {
+      "APM220": 57,
+      "APM420": 27,
+      "APM_400": 2,
+      "APM_440+": 2
+    }
+  },
+  "APM_400": {
+    "Name": "APM_400",
+    "Brand": "MGF",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "APM_440+": {
+    "Name": "APM_440+",
+    "Brand": "NOVACARE",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "AQUAC": {
+    "Name": "AQUAC",
+    "Brand": "FRESENIUSMEDICALCARE",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "ARNOLD": {
+    "Name": "ARNOLD",
+    "Brand": "BIOCORP",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "ARNOLD-CONFORT": {
+    "Name": "ARNOLD-CONFORT",
+    "Brand": "BIOCORP",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "AS": {
+    "Name": "AS",
+    "Brand": "NOVACARE",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "ASTIR": {
+    "Name": "ASTIR",
+    "Brand": "REBOUL",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "AT235": {
+    "Name": "AT235",
+    "Brand": "JAHAN",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "AVASPEC": {
+    "Name": "AVASPEC",
+    "Brand": "AVANTES",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "AVG-1600-ABILITY": {
+    "Name": "AVG-1600-ABILITY",
+    "Brand": "HILL_ROM",
+    "Occurences": 3,
+    "Similar": {}
+  },
+  "AW4": {
+    "Name": "AW4",
+    "Brand": "PHYMEP",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "AW7": {
+    "Name": "AW7",
+    "Brand": "PHYMEP",
+    "Occurences": 3,
+    "Similar": {
+      "AW4": 2
+    }
+  },
+  "AZ26": {
+    "Name": "AZ26",
+    "Brand": "JAHAN",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "B2": {
+    "Name": "B2",
+    "Brand": "EMO",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "B40W": {
+    "Name": "B40W",
+    "Brand": "EPSON",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "BETA100": {
+    "Name": "BETA100",
+    "Brand": "HEINE",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "BJC4400": {
+    "Name": "BJC4400",
+    "Brand": "CANON",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "BLUESOLO": {
+    "Name": "BLUESOLO",
+    "Brand": "AREVA",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "BOOSTER": {
+    "Name": "BOOSTER",
+    "Brand": "EMO_INTERNATIONAL",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "BP400600": {
+    "Name": "BP400600",
+    "Brand": "AMTI",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "BQ3200ACQDV": {
+    "Name": "BQ3200ACQDV",
+    "Brand": "MICROMED",
+    "Occurences": 2,
+    "Similar": {
+      "BQ3800ACQDV": 1
+    }
+  },
+  "BQ3800ACQDV": {
+    "Name": "BQ3800ACQDV",
+    "Brand": "MICROMED",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "BRAINCAP": {
+    "Name": "BRAINCAP",
+    "Brand": "OSG_BVBA_BRAINLAB",
+    "Occurences": 3,
+    "Similar": {
+      "BRAINRT": 2
+    }
+  },
+  "BRAINRT": {
+    "Name": "BRAINRT",
+    "Brand": "OSG_BVBA_BRAINLAB",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "BW": {
+    "Name": "BW",
+    "Brand": "CCA",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "C544DN": {
+    "Name": "C544DN",
+    "Brand": "LEXMARK",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "C7000": {
+    "Name": "C7000",
+    "Brand": "SEKONIC",
+    "Occurences": 1,
+    "Similar": {
+      "DC7900": 1,
+      "PAC7000": 1
+    }
+  },
+  "C736DN": {
+    "Name": "C736DN",
+    "Brand": "LEXMARK",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "C86/B251A": {
+    "Name": "C86/B251A",
+    "Brand": "EPSON",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "CA735": {
+    "Name": "CA735",
+    "Brand": "SECA",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "CALIBREX": {
+    "Name": "CALIBREX",
+    "Brand": "SOCOREX",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "CC39": {
+    "Name": "CC39",
+    "Brand": "PHYSIDIA",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "CC69220000": {
+    "Name": "CC69220000",
+    "Brand": "SECA",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "CCD": {
+    "Name": "CCD",
+    "Brand": "CCIR",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "CEDRUSST100": {
+    "Name": "CEDRUSST100",
+    "Brand": "CEDRUS",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "CELCIUSW370": {
+    "Name": "CELCIUSW370",
+    "Brand": "FUJITSU",
+    "Occurences": 1,
+    "Similar": {
+      "CELSIUS420": 1
+    }
+  },
+  "CELLEX": {
+    "Name": "CELLEX",
+    "Brand": "THERAKOS",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "CELSIUS420": {
+    "Name": "CELSIUS420",
+    "Brand": "INFOMEDIA",
+    "Occurences": 1,
+    "Similar": {
+      "CELCIUSW370": 1
+    }
+  },
+  "CFM": {
+    "Name": "CFM",
+    "Brand": "MICROMED",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "CHATTANOOGA": {
+    "Name": "CHATTANOOGA",
+    "Brand": "REHAB",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "CLAVIS": {
+    "Name": "CLAVIS",
+    "Brand": "DELTAMED",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "CLINITHERM-BABY": {
+    "Name": "CLINITHERM-BABY",
+    "Brand": "SEBAC",
+    "Occurences": 17,
+    "Similar": {}
+  },
+  "CLS95": {
+    "Name": "CLS95",
+    "Brand": "ESSILOR",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "COLORLASERJET3600N": {
+    "Name": "COLORLASERJET3600N",
+    "Brand": "HEWLETT_PACKARD",
+    "Occurences": 1,
+    "Similar": {
+      "LASERJET1600": 1
+    }
+  },
+  "COLORQUBE8570N": {
+    "Name": "COLORQUBE8570N",
+    "Brand": "XEROX",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "COMPACQNX7400": {
+    "Name": "COMPACQNX7400",
+    "Brand": "HEWLETT_PACKARD",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "COMPAQDC7800MCT": {
+    "Name": "COMPAQDC7800MCT",
+    "Brand": "MICROMED",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "COOLCOILB65": {
+    "Name": "COOLCOILB65",
+    "Brand": "MAG2HEALTH",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "CORE2DUOE8200": {
+    "Name": "CORE2DUOE8200",
+    "Brand": "DELL",
+    "Occurences": 3,
+    "Similar": {
+      "CORE2DUOE8400": 1,
+      "CORE2DUOE8500": 1
+    }
+  },
+  "CORE2DUOE8400": {
+    "Name": "CORE2DUOE8400",
+    "Brand": "DELL",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "CORE2DUOE8500": {
+    "Name": "CORE2DUOE8500",
+    "Brand": "DELL",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "COSMICSPI": {
+    "Name": "COSMICSPI",
+    "Brand": "BOUDU_SANTE",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "COSMOSMERCURY": {
+    "Name": "COSMOSMERCURY",
+    "Brand": "MSE_ELECTRONIQUE",
+    "Occurences": 1,
+    "Similar": {
+      "COSMOSVENUS": 1
+    }
+  },
+  "COSMOSVENUS": {
+    "Name": "COSMOSVENUS",
+    "Brand": "HEWLETT_PACKARD",
+    "Occurences": 1,
+    "Similar": {
+      "COSMOSMERCURY": 1
+    }
+  },
+  "CPB": {
+    "Name": "CPB",
+    "Brand": "NOVACARE",
+    "Occurences": 10,
+    "Similar": {}
+  },
+  "CPC": {
+    "Name": "CPC",
+    "Brand": "NOVACARE",
+    "Occurences": 69,
+    "Similar": {
+      "CPB": 10
+    }
+  },
+  "CPFS/D": {
+    "Name": "CPFS/D",
+    "Brand": "MSE_ELECTRONIQUE",
+    "Occurences": 9,
+    "Similar": {}
+  },
+  "CRD2": {
+    "Name": "CRD2",
+    "Brand": "DIXWELL",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "CRF102030200023": {
+    "Name": "CRF102030200023",
+    "Brand": "EMO",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "CWP800R02": {
+    "Name": "CWP800R02",
+    "Brand": "GAMBRO",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "CWP810": {
+    "Name": "CWP810",
+    "Brand": "GAMBRO",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "CYCLUS_2": {
+    "Name": "CYCLUS_2",
+    "Brand": "MGC_DIAGNOSTICS",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "D0094": {
+    "Name": "D0094",
+    "Brand": "FRESENIUS",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "DATAVEIN": {
+    "Name": "DATAVEIN",
+    "Brand": "CIMED",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "DC-STIMULATION-PLUS": {
+    "Name": "DC-STIMULATION-PLUS",
+    "Brand": "NEUROCONN",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "DC7900": {
+    "Name": "DC7900",
+    "Brand": "ESSOR_INFORMATIQUE",
+    "Occurences": 1,
+    "Similar": {
+      "C7000": 1
+    }
+  },
+  "DEDYCA": {
+    "Name": "DEDYCA",
+    "Brand": "BELLCO",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "DESKJET5940": {
+    "Name": "DESKJET5940",
+    "Brand": "HEWLETT_PACKARD",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "DIVMAT": {
+    "Name": "DIVMAT",
+    "Brand": "MSE_ELECTRONIQUE",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "DTG1010A": {
+    "Name": "DTG1010A",
+    "Brand": "SEGA_ELECTRONIQUE",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "DUET-CLINIC": {
+    "Name": "DUET-CLINIC",
+    "Brand": "UROSCAN",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "DYNAMAX": {
+    "Name": "DYNAMAX",
+    "Brand": "ELECTRONIC_CONSEIL",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "E6000": {
+    "Name": "E6000",
+    "Brand": "SEMCO",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "EBIKE-3": {
+    "Name": "EBIKE-3",
+    "Brand": "GE_HEALTHCARE",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "ECHOSCREEN": {
+    "Name": "ECHOSCREEN",
+    "Brand": "JAHAN",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "ECLCECLIPSE": {
+    "Name": "ECLCECLIPSE",
+    "Brand": "MEDTRONIC",
+    "Occurences": 1,
+    "Similar": {
+      "ECLIPSE": 1
+    }
+  },
+  "ECLIPSE": {
+    "Name": "ECLIPSE",
+    "Brand": "INTERACOUSTICS",
+    "Occurences": 1,
+    "Similar": {
+      "ECLCECLIPSE": 1,
+      "ELIPSE": 1
+    }
+  },
+  "EDX_BASE_SYSTEM": {
+    "Name": "EDX_BASE_SYSTEM",
+    "Brand": "VIKING",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "EE1166": {
+    "Name": "EE1166",
+    "Brand": "BRAINLAB",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "EEG1166": {
+    "Name": "EEG1166",
+    "Brand": "BRAINLAB",
+    "Occurences": 3,
+    "Similar": {
+      "EE1166": 1
+    }
+  },
+  "EJBAZ8581": {
+    "Name": "EJBAZ8581",
+    "Brand": "REBOUL",
+    "Occurences": 1,
+    "Similar": {
+      "EJBAZ8921": 1
+    }
+  },
+  "EJBAZ8921": {
+    "Name": "EJBAZ8921",
+    "Brand": "REBOUL",
+    "Occurences": 1,
+    "Similar": {
+      "EJBAZ8581": 1
+    }
+  },
+  "EL14": {
+    "Name": "EL14",
+    "Brand": "ELONEX",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "ELIPSE": {
+    "Name": "ELIPSE",
+    "Brand": "MGE",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "ELITE": {
+    "Name": "ELITE",
+    "Brand": "AMEDA",
+    "Occurences": 2,
+    "Similar": {
+      "ELIPSE": 1
+    }
+  },
+  "EML105": {
+    "Name": "EML105",
+    "Brand": "RADIOMETER",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "EMP4PRO": {
+    "Name": "EMP4PRO",
+    "Brand": "SCHWA_MEDICO",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "ERFO705631": {
+    "Name": "ERFO705631",
+    "Brand": "MSE_ELECTRONIQUE",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "ERGO": {
+    "Name": "ERGO",
+    "Brand": "MSE_ELECTRONIQUE",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "ERGOGARD5400": {
+    "Name": "ERGOGARD5400",
+    "Brand": "SCHILLER",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "ESC4": {
+    "Name": "ESC4",
+    "Brand": "EUROMEDICA",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "ESPACE": {
+    "Name": "ESPACE",
+    "Brand": "SOMETHY",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "EVID70P": {
+    "Name": "EVID70P",
+    "Brand": "SONY",
+    "Occurences": 3,
+    "Similar": {}
+  },
+  "EW": {
+    "Name": "EW",
+    "Brand": "DELTAMED",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "EXCALIBUR": {
+    "Name": "EXCALIBUR",
+    "Brand": "LODE",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "EXELIA_SP": {
+    "Name": "EXELIA_SP",
+    "Brand": "FRESENIUS",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "EYETRACK6": {
+    "Name": "EYETRACK6",
+    "Brand": "SEMCO",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "FC10": {
+    "Name": "FC10",
+    "Brand": "CFPO",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "FH": {
+    "Name": "FH",
+    "Brand": "CORMIER",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "FISIO": {
+    "Name": "FISIO",
+    "Brand": "ATOMISOR",
+    "Occurences": 6,
+    "Similar": {
+      "FISIOPRO": 2,
+      "VISIO": 1
+    }
+  },
+  "FISIOPRO": {
+    "Name": "FISIOPRO",
+    "Brand": "KITETT",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "FISIO_PRO": {
+    "Name": "FISIO_PRO",
+    "Brand": "DIFFUSION_TECHNIQUE",
+    "Occurences": 1,
+    "Similar": {
+      "FISIOPRO": 2
+    }
+  },
+  "FLASH10S": {
+    "Name": "FLASH10S",
+    "Brand": "MICROMED",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "FLUOBEAM800": {
+    "Name": "FLUOBEAM800",
+    "Brand": "FLUOPITCS",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "FT1": {
+    "Name": "FT1",
+    "Brand": "POLAR",
+    "Occurences": 6,
+    "Similar": {}
+  },
+  "FUSYOFR": {
+    "Name": "FUSYOFR",
+    "Brand": "MEDICAPTEURS",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "GAITRITE": {
+    "Name": "GAITRITE",
+    "Brand": "BIOMETRICS",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "GALAXIE": {
+    "Name": "GALAXIE",
+    "Brand": "LAFON_GBM",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "GASTRO+": {
+    "Name": "GASTRO+",
+    "Brand": "RESPUR",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "GSI61": {
+    "Name": "GSI61",
+    "Brand": "SCR_ELECTRONIQUES",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "GT2500N": {
+    "Name": "GT2500N",
+    "Brand": "EPSON",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "GT3_BT": {
+    "Name": "GT3_BT",
+    "Brand": "ACTIGRAPH",
+    "Occurences": 7,
+    "Similar": {}
+  },
+  "H4E": {
+    "Name": "H4E",
+    "Brand": "MEDITOR",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "HALOSCALE": {
+    "Name": "HALOSCALE",
+    "Brand": "AIR_LIQUIDE",
+    "Occurences": 3,
+    "Similar": {}
+  },
+  "HALOSCALESX800000": {
+    "Name": "HALOSCALESX800000",
+    "Brand": "AIR_LIQUIDE_MEDICAL",
+    "Occurences": 4,
+    "Similar": {}
+  },
+  "HAND_DYNOMOMOTOR": {
+    "Name": "HAND_DYNOMOMOTOR",
+    "Brand": "JAMAR",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "HD02E": {
+    "Name": "HD02E",
+    "Brand": "MEDITOR",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "HEADBOX": {
+    "Name": "HEADBOX",
+    "Brand": "OSG",
+    "Occurences": 1,
+    "Similar": {
+      "HEMABOX": 1
+    }
+  },
+  "HEMABOX": {
+    "Name": "HEMABOX",
+    "Brand": "GAMBRO",
+    "Occurences": 1,
+    "Similar": {
+      "HEADBOX": 1
+    }
+  },
+  "HK290002": {
+    "Name": "HK290002",
+    "Brand": "SCHILLER",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "HL2240D": {
+    "Name": "HL2240D",
+    "Brand": "BROTHER",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "HP": {
+    "Name": "HP",
+    "Brand": "ELIPSON",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "HP470G7": {
+    "Name": "HP470G7",
+    "Brand": "HEWLETT_PACKARD",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "HP970CXI": {
+    "Name": "HP970CXI",
+    "Brand": "HEWLETT_PACKARD",
+    "Occurences": 1,
+    "Similar": {
+      "980CXI": 1
+    }
+  },
+  "HR900ACCELLA": {
+    "Name": "HR900ACCELLA",
+    "Brand": "HILL_ROM",
+    "Occurences": 9,
+    "Similar": {}
+  },
+  "HRKIT": {
+    "Name": "HRKIT",
+    "Brand": "MSE_ELECTRONIQUE",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "HX3140CW": {
+    "Name": "HX3140CW",
+    "Brand": "BROTHER",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "HYDRAULICHAND": {
+    "Name": "HYDRAULICHAND",
+    "Brand": "JAMAR",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "HYPAIR": {
+    "Name": "HYPAIR",
+    "Brand": "MEDISOFT",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "IIYAMA": {
+    "Name": "IIYAMA",
+    "Brand": "INFOCLIC",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "IMACPOWERPCG3": {
+    "Name": "IMACPOWERPCG3",
+    "Brand": "APPLE",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "IMPEDANCEMETRO": {
+    "Name": "IMPEDANCEMETRO",
+    "Brand": "SECA",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "IMPRIMANTE": {
+    "Name": "IMPRIMANTE",
+    "Brand": "",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "IMSRZ304M": {
+    "Name": "IMSRZ304M",
+    "Brand": "SONY",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "INC8000": {
+    "Name": "INC8000",
+    "Brand": "SECA",
+    "Occurences": 4,
+    "Similar": {
+      "INC8000SC": 1
+    }
+  },
+  "INC8000SC": {
+    "Name": "INC8000SC",
+    "Brand": "SECA",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "INJECTOMAT_SP_TIVA": {
+    "Name": "INJECTOMAT_SP_TIVA",
+    "Brand": "FRESENIUS",
+    "Occurences": 7,
+    "Similar": {}
+  },
+  "INKJET2300": {
+    "Name": "INKJET2300",
+    "Brand": "HEWLETT_PACKARD",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "INSTFH500": {
+    "Name": "INSTFH500",
+    "Brand": "INSTRAMED",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "INTELSENOQUADCORE": {
+    "Name": "INTELSENOQUADCORE",
+    "Brand": "DELL",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "IOMAX4": {
+    "Name": "IOMAX4",
+    "Brand": "I2M",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "IP50/100": {
+    "Name": "IP50/100",
+    "Brand": "LABO_MODERNE",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "IPELA": {
+    "Name": "IPELA",
+    "Brand": "SONY",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "JE921A": {
+    "Name": "JE921A",
+    "Brand": "NEUROFAX",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "KANGAROO_EPUMP": {
+    "Name": "KANGAROO_EPUMP",
+    "Brand": "MEDTRONIC",
+    "Occurences": 14,
+    "Similar": {}
+  },
+  "KEYPOINTSTATIO": {
+    "Name": "KEYPOINTSTATIO",
+    "Brand": "MEDTRONIC",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "KFISSPS1": {
+    "Name": "KFISSPS1",
+    "Brand": "DTF",
+    "Occurences": 4,
+    "Similar": {}
+  },
+  "KITEMATIC": {
+    "Name": "KITEMATIC",
+    "Brand": "DIFFUSION_TECHNIQUE",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "KITETT": {
+    "Name": "KITETT",
+    "Brand": "ATOMISOR",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "KITETTFISIO": {
+    "Name": "KITETTFISIO",
+    "Brand": "ATOMISOR",
+    "Occurences": 3,
+    "Similar": {}
+  },
+  "KITETTFISIOPRO": {
+    "Name": "KITETTFISIOPRO",
+    "Brand": "DTF",
+    "Occurences": 10,
+    "Similar": {
+      "KITETTFISIO": 3,
+      "KITETT_FISIO": 1
+    }
+  },
+  "KITETT_FISIO": {
+    "Name": "KITETT_FISIO",
+    "Brand": "DTF",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "KITSAM25": {
+    "Name": "KITSAM25",
+    "Brand": "MICROMED",
+    "Occurences": 1,
+    "Similar": {
+      "SAM25": 1
+    }
+  },
+  "KMA1512P": {
+    "Name": "KMA1512P",
+    "Brand": "ARJO",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "LABVIEW": {
+    "Name": "LABVIEW",
+    "Brand": "MANATEC",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "LAS500TURN": {
+    "Name": "LAS500TURN",
+    "Brand": "NOVACARE",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "LASERJET1600": {
+    "Name": "LASERJET1600",
+    "Brand": "HELWETT_PACKARD",
+    "Occurences": 1,
+    "Similar": {
+      "COLORLASERJET3600N": 1,
+      "LASERJET2300": 1,
+      "LASERJETPRO400": 1
+    }
+  },
+  "LASERJET2300": {
+    "Name": "LASERJET2300",
+    "Brand": "HEWLETT_PACKARD",
+    "Occurences": 1,
+    "Similar": {
+      "LASERJET1600": 1,
+      "LASERJETPRO400": 1
+    }
+  },
+  "LASERJETPRO400": {
+    "Name": "LASERJETPRO400",
+    "Brand": "HEWLETT_PACKARD",
+    "Occurences": 1,
+    "Similar": {
+      "LASERJET1600": 1,
+      "LASERJET2300": 1
+    }
+  },
+  "LEDPHOTIC": {
+    "Name": "LEDPHOTIC",
+    "Brand": "MICROMED",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "LITEGAIT-400E": {
+    "Name": "LITEGAIT-400E",
+    "Brand": "MSE_ELECTRONIQUE",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "LIVIN": {
+    "Name": "LIVIN",
+    "Brand": "CCA",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "LI_900_B41": {
+    "Name": "LI_900_B41",
+    "Brand": "HILL_ROM",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "LX300+": {
+    "Name": "LX300+",
+    "Brand": "EPSON",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "M.M.S": {
+    "Name": "M.M.S",
+    "Brand": "NEXAM",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "M4400": {
+    "Name": "M4400",
+    "Brand": "SEMCO",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "M4800": {
+    "Name": "M4800",
+    "Brand": "DELL",
+    "Occurences": 1,
+    "Similar": {
+      "M4400": 1
+    }
+  },
+  "M717": {
+    "Name": "M717",
+    "Brand": "SECA",
+    "Occurences": 1,
+    "Similar": {
+      "717": 14
+    }
+  },
+  "MAGPROX100": {
+    "Name": "MAGPROX100",
+    "Brand": "MAG2HEALTH",
+    "Occurences": 1,
+    "Similar": {
+      "MAGPRO_R_60": 1
+    }
+  },
+  "MAGPRO_R_60": {
+    "Name": "MAGPRO_R_60",
+    "Brand": "ALPINE_BIOMED",
+    "Occurences": 1,
+    "Similar": {
+      "MAGPROX100": 1
+    }
+  },
+  "MAGSTIM": {
+    "Name": "MAGSTIM",
+    "Brand": "INOMED",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "MAGSTIMSUPERRAPIDE": {
+    "Name": "MAGSTIMSUPERRAPIDE",
+    "Brand": "INOMED",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "MAICO": {
+    "Name": "MAICO",
+    "Brand": "INTERACOUSTICS",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "MARK3": {
+    "Name": "MARK3",
+    "Brand": "RADIOMETER",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "MARS": {
+    "Name": "MARS",
+    "Brand": "TERAKLIN",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "MATIMMOA210PU": {
+    "Name": "MATIMMOA210PU",
+    "Brand": "ST_GERMAIN_PLASTIQUE",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "MAXIT": {
+    "Name": "MAXIT",
+    "Brand": "NM_MEDICAL",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "MBC": {
+    "Name": "MBC",
+    "Brand": "KERN",
+    "Occurences": 4,
+    "Similar": {
+      "MCC": 3,
+      "MGC": 3
+    }
+  },
+  "MC780MAP": {
+    "Name": "MC780MAP",
+    "Brand": "TANITA",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "MCB": {
+    "Name": "MCB",
+    "Brand": "KERN",
+    "Occurences": 5,
+    "Similar": {
+      "MCC": 3
+    }
+  },
+  "MCBA555": {
+    "Name": "MCBA555",
+    "Brand": "SECA",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "MCC": {
+    "Name": "MCC",
+    "Brand": "KERN",
+    "Occurences": 3,
+    "Similar": {}
+  },
+  "MED-FULL": {
+    "Name": "MED-FULL",
+    "Brand": "MEDISOFT",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "MED9021B0103": {
+    "Name": "MED9021B0103",
+    "Brand": "UROSCAN",
+    "Occurences": 1,
+    "Similar": {
+      "Z9021B0103": 1
+    }
+  },
+  "MEDCARD12D": {
+    "Name": "MEDCARD12D",
+    "Brand": "MEDISOFT",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "MESALABS_90GL": {
+    "Name": "MESALABS_90GL",
+    "Brand": "BAXTER",
+    "Occurences": 3,
+    "Similar": {}
+  },
+  "MESAMIV": {
+    "Name": "MESAMIV",
+    "Brand": "SEFAM",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "MGC": {
+    "Name": "MGC",
+    "Brand": "MSE_ELECTRONIQUE",
+    "Occurences": 3,
+    "Similar": {}
+  },
+  "MGC1070CR": {
+    "Name": "MGC1070CR",
+    "Brand": "MSE_ELECTRONIQUE",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "MICROFET2": {
+    "Name": "MICROFET2",
+    "Brand": "MSE_ELECTRONIQUE",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "MICROLAB": {
+    "Name": "MICROLAB",
+    "Brand": "MSE_ELECTRONIQUE",
+    "Occurences": 4,
+    "Similar": {
+      "MICROLOOP": 1,
+      "MICROPAC": 1,
+      "MICRORPS": 1
+    }
+  },
+  "MICROLOOP": {
+    "Name": "MICROLOOP",
+    "Brand": "MSE_ELECTRONIQUE",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "MICROPAC": {
+    "Name": "MICROPAC",
+    "Brand": "DRAGER",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "MICRORPS": {
+    "Name": "MICRORPS",
+    "Brand": "MSE_ELECTRONIQUE",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "MIT": {
+    "Name": "MIT",
+    "Brand": "ECONOCOM",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "MMI": {
+    "Name": "MMI",
+    "Brand": "ATEM",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "MONARK": {
+    "Name": "MONARK",
+    "Brand": "MSE_ELECTRONIQUE",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "MONARK894E": {
+    "Name": "MONARK894E",
+    "Brand": "JFB_MEDICAL",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "MONITEUR": {
+    "Name": "MONITEUR",
+    "Brand": "OSG_BVBA_BRAINLAB",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "MORPHEUS": {
+    "Name": "MORPHEUS",
+    "Brand": "BRAINLAB",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "MOTIONWATCH8": {
+    "Name": "MOTIONWATCH8",
+    "Brand": "PHYMED",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "MOTOMED-LETTO": {
+    "Name": "MOTOMED-LETTO",
+    "Brand": "MOBILE",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "MOTOMEDVIVA2": {
+    "Name": "MOTOMEDVIVA2",
+    "Brand": "MOBILE",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "MPR1013": {
+    "Name": "MPR1013",
+    "Brand": "SANYO",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "MTS": {
+    "Name": "MTS",
+    "Brand": "KERN",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "MTS31867": {
+    "Name": "MTS31867",
+    "Brand": "KERN",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "MULTIFILTRATE": {
+    "Name": "MULTIFILTRATE",
+    "Brand": "FRESENIUS_MEDICAL_CA",
+    "Occurences": 7,
+    "Similar": {}
+  },
+  "MV6P10T": {
+    "Name": "MV6P10T",
+    "Brand": "DELTAMED",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "MW8": {
+    "Name": "MW8",
+    "Brand": "CAMBRIDGE",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "N2484630": {
+    "Name": "N2484630",
+    "Brand": "OLYMPUS",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "NAS": {
+    "Name": "NAS",
+    "Brand": "MICROMED",
+    "Occurences": 2,
+    "Similar": {
+      "AS": 1
+    }
+  },
+  "NASNASSTOR": {
+    "Name": "NASNASSTOR",
+    "Brand": "ATHALE",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "NB2082": {
+    "Name": "NB2082",
+    "Brand": "HNE_MEDICAL",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "NB3/E": {
+    "Name": "NB3/E",
+    "Brand": "HNE_MEDICAL",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "NEP54": {
+    "Name": "NEP54",
+    "Brand": "SCHILLER",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "NF-EEG12K": {
+    "Name": "NF-EEG12K",
+    "Brand": "NIHON_KOHDEN",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "NIM": {
+    "Name": "NIM",
+    "Brand": "MEDTRONIC",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "NIMBUS3": {
+    "Name": "NIMBUS3",
+    "Brand": "HNE_MEDICAL",
+    "Occurences": 3,
+    "Similar": {}
+  },
+  "NIMIIXOMED": {
+    "Name": "NIMIIXOMED",
+    "Brand": "XOMED",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "NOTEBOOK_5520-F": {
+    "Name": "NOTEBOOK_5520-F",
+    "Brand": "DELL",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "NOXTURNALT3": {
+    "Name": "NOXTURNALT3",
+    "Brand": "SEBAC",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "NYSTAGVIEW": {
+    "Name": "NYSTAGVIEW",
+    "Brand": "SYNAPSYS",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "OFFICEJET550C8157": {
+    "Name": "OFFICEJET550C8157",
+    "Brand": "HEWLETT_PACKARD",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "ONM300": {
+    "Name": "ONM300",
+    "Brand": "ONEAC",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "OPM660": {
+    "Name": "OPM660",
+    "Brand": "MEDTRONIC",
+    "Occurences": 1,
+    "Similar": {
+      "APM460": 20
+    }
+  },
+  "OPTIBIKEMED50K": {
+    "Name": "OPTIBIKEMED50K",
+    "Brand": "MSE_ELECTRONIQUE",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "OPTILEXGX370": {
+    "Name": "OPTILEXGX370",
+    "Brand": "PERKIN_ELMER",
+    "Occurences": 1,
+    "Similar": {
+      "OPTIPLEX3030": 1,
+      "OPTIPLEX_5040": 1,
+      "OPTIPLEX_7050": 1
+    }
+  },
+  "OPTIMUSPLUS": {
+    "Name": "OPTIMUSPLUS",
+    "Brand": "MERIVAARA",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "OPTIPLEX3030": {
+    "Name": "OPTIPLEX3030",
+    "Brand": "DELL",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "OPTIPLEX360DT": {
+    "Name": "OPTIPLEX360DT",
+    "Brand": "DELL",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "OPTIPLEX360MT": {
+    "Name": "OPTIPLEX360MT",
+    "Brand": "DELL",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "OPTIPLEX7010": {
+    "Name": "OPTIPLEX7010",
+    "Brand": "DELL",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "OPTIPLEX760DT": {
+    "Name": "OPTIPLEX760DT",
+    "Brand": "DELL",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "OPTIPLEX780MT": {
+    "Name": "OPTIPLEX780MT",
+    "Brand": "DELL",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "OPTIPLEX990": {
+    "Name": "OPTIPLEX990",
+    "Brand": "DELL",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "OPTIPLEX990SF": {
+    "Name": "OPTIPLEX990SF",
+    "Brand": "DELL",
+    "Occurences": 3,
+    "Similar": {
+      "OPTIPLEX3030": 1,
+      "OPTIPLEX360DT": 2,
+      "OPTIPLEX360MT": 1,
+      "OPTIPLEX7010": 1,
+      "OPTIPLEX760DT": 1,
+      "OPTIPLEX780MT": 1,
+      "OPTIPLEX990": 2,
+      "OPTIPLEX_5040": 1,
+      "OPTIPLEX_7050": 1
+    }
+  },
+  "OPTIPLEX_5040": {
+    "Name": "OPTIPLEX_5040",
+    "Brand": "DELL",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "OPTIPLEX_7050": {
+    "Name": "OPTIPLEX_7050",
+    "Brand": "DELL",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "OQUS": {
+    "Name": "OQUS",
+    "Brand": "QUALISYS",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "OQUS5+": {
+    "Name": "OQUS5+",
+    "Brand": "QUALISYS",
+    "Occurences": 6,
+    "Similar": {
+      "OQUS": 2,
+      "OQUS7+": 4
+    }
+  },
+  "OQUS7+": {
+    "Name": "OQUS7+",
+    "Brand": "QUALISYS",
+    "Occurences": 4,
+    "Similar": {}
+  },
+  "ORTHOEMILY": {
+    "Name": "ORTHOEMILY",
+    "Brand": "SPIC_FRANCE",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "OUIEFIX": {
+    "Name": "OUIEFIX",
+    "Brand": "AMM_ORL",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "P1002": {
+    "Name": "P1002",
+    "Brand": "PARIBEL_CORMIER",
+    "Occurences": 1,
+    "Similar": {
+      "1002": 1
+    }
+  },
+  "P2710JFT4055G": {
+    "Name": "P2710JFT4055G",
+    "Brand": "ASUS",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "PA60S": {
+    "Name": "PA60S",
+    "Brand": "ATHALE",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "PAC3500": {
+    "Name": "PAC3500",
+    "Brand": "DRAGER_SAFETY",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "PAC5000": {
+    "Name": "PAC5000",
+    "Brand": "DRAGER_SAFETY",
+    "Occurences": 3,
+    "Similar": {
+      "PAC3500": 1,
+      "PAC5000CO": 1,
+      "PAC7000": 1,
+      "PAC7000CO": 1
+    }
+  },
+  "PAC5000CO": {
+    "Name": "PAC5000CO",
+    "Brand": "DRAGER_SAFETY",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "PAC7000": {
+    "Name": "PAC7000",
+    "Brand": "DRAGER_SAFETY",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "PAC7000CO": {
+    "Name": "PAC7000CO",
+    "Brand": "DRAGER_SAFETY",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "PAVILLIONDV8000": {
+    "Name": "PAVILLIONDV8000",
+    "Brand": "HEWLETT_PACKARD",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "PEL38": {
+    "Name": "PEL38",
+    "Brand": "MIDICAPTEUR",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "PENTIUMIII": {
+    "Name": "PENTIUMIII",
+    "Brand": "MEDISOFT",
+    "Occurences": 1,
+    "Similar": {
+      "PENTIUMIV": 1
+    }
+  },
+  "PENTIUMIV": {
+    "Name": "PENTIUMIV",
+    "Brand": "ATIS_INFORMATIQUE",
+    "Occurences": 1,
+    "Similar": {
+      "PENTIUMIII": 1
+    }
+  },
+  "PHARAON1470": {
+    "Name": "PHARAON1470",
+    "Brand": "LSOMEDICAL",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "PHYSIDIA_S3": {
+    "Name": "PHYSIDIA_S3",
+    "Brand": "SANTELYS_BFC",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "PIV": {
+    "Name": "PIV",
+    "Brand": "DELTAMED",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "PLASAUTO": {
+    "Name": "PLASAUTO",
+    "Brand": "HEMA._T",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "PLATEFORMESTIMULOPT": {
+    "Name": "PLATEFORMESTIMULOPT",
+    "Brand": "FRAMIRAL",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "PLATINUM": {
+    "Name": "PLATINUM",
+    "Brand": "AMEDA",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "PLATINUM_ELITE": {
+    "Name": "PLATINUM_ELITE",
+    "Brand": "MGC_DIAGNOSTICS",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "PLUS+": {
+    "Name": "PLUS+",
+    "Brand": "JAMAR",
+    "Occurences": 6,
+    "Similar": {}
+  },
+  "POLARS625X": {
+    "Name": "POLARS625X",
+    "Brand": "MSE_ELECTRONIQUE",
+    "Occurences": 3,
+    "Similar": {}
+  },
+  "PONYFX": {
+    "Name": "PONYFX",
+    "Brand": "COSMED",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "PR0401320015005": {
+    "Name": "PR0401320015005",
+    "Brand": "IAC_ACOUSTICS",
+    "Occurences": 1,
+    "Similar": {
+      "PR041320015001": 1,
+      "PR041320015002": 1,
+      "PR041320015003": 1,
+      "PR041320015004": 1
+    }
+  },
+  "PR041320015001": {
+    "Name": "PR041320015001",
+    "Brand": "IAC_ACOUSTICS",
+    "Occurences": 1,
+    "Similar": {
+      "PR0401320015005": 1,
+      "PR041320015002": 1,
+      "PR041320015003": 1,
+      "PR041320015004": 1
+    }
+  },
+  "PR041320015002": {
+    "Name": "PR041320015002",
+    "Brand": "IAC_ACOUSTICS",
+    "Occurences": 1,
+    "Similar": {
+      "PR0401320015005": 1,
+      "PR041320015001": 1,
+      "PR041320015003": 1,
+      "PR041320015004": 1
+    }
+  },
+  "PR041320015003": {
+    "Name": "PR041320015003",
+    "Brand": "IAC_ACOUSTICS",
+    "Occurences": 1,
+    "Similar": {
+      "PR0401320015005": 1,
+      "PR041320015001": 1,
+      "PR041320015002": 1,
+      "PR041320015004": 1
+    }
+  },
+  "PR041320015004": {
+    "Name": "PR041320015004",
+    "Brand": "IAC_ACOUSTICS",
+    "Occurences": 1,
+    "Similar": {
+      "PR0401320015005": 1,
+      "PR041320015001": 1,
+      "PR041320015002": 1,
+      "PR041320015003": 1
+    }
+  },
+  "PRECISION3630": {
+    "Name": "PRECISION3630",
+    "Brand": "DELL",
+    "Occurences": 1,
+    "Similar": {
+      "PRECISION5820": 1,
+      "PRECISION7530": 1,
+      "PRECISIONM6600": 1,
+      "PRECISIONT1700": 1,
+      "PRECISIONT3620": 1,
+      "PRECISIONT5510": 1,
+      "PRECISIONT5810": 1
+    }
+  },
+  "PRECISION5820": {
+    "Name": "PRECISION5820",
+    "Brand": "DELL",
+    "Occurences": 1,
+    "Similar": {
+      "PRECISION3630": 1,
+      "PRECISION7530": 1,
+      "PRECISIONM6600": 1,
+      "PRECISIONT1700": 1,
+      "PRECISIONT3620": 1,
+      "PRECISIONT5510": 1,
+      "PRECISIONT5810": 1
+    }
+  },
+  "PRECISION7530": {
+    "Name": "PRECISION7530",
+    "Brand": "DELL",
+    "Occurences": 1,
+    "Similar": {
+      "PRECISION3630": 1,
+      "PRECISION5820": 1,
+      "PRECISIONM6600": 1,
+      "PRECISIONT1700": 1,
+      "PRECISIONT3620": 1,
+      "PRECISIONT5510": 1,
+      "PRECISIONT5810": 1
+    }
+  },
+  "PRECISIONM6600": {
+    "Name": "PRECISIONM6600",
+    "Brand": "DELL",
+    "Occurences": 1,
+    "Similar": {
+      "PRECISION3630": 1,
+      "PRECISION5820": 1,
+      "PRECISION7530": 1,
+      "PRECISIONT1700": 1,
+      "PRECISIONT3620": 1,
+      "PRECISIONT5510": 1,
+      "PRECISIONT5810": 1
+    }
+  },
+  "PRECISIONT1700": {
+    "Name": "PRECISIONT1700",
+    "Brand": "DELL",
+    "Occurences": 1,
+    "Similar": {
+      "PRECISION3630": 1,
+      "PRECISION5820": 1,
+      "PRECISION7530": 1,
+      "PRECISIONM6600": 1,
+      "PRECISIONT3620": 1,
+      "PRECISIONT5510": 1,
+      "PRECISIONT5810": 1
+    }
+  },
+  "PRECISIONT3620": {
+    "Name": "PRECISIONT3620",
+    "Brand": "DELL",
+    "Occurences": 1,
+    "Similar": {
+      "PRECISION3630": 1,
+      "PRECISION5820": 1,
+      "PRECISION7530": 1,
+      "PRECISIONM6600": 1,
+      "PRECISIONT1700": 1,
+      "PRECISIONT5510": 1,
+      "PRECISIONT5810": 1
+    }
+  },
+  "PRECISIONT5510": {
+    "Name": "PRECISIONT5510",
+    "Brand": "DELL",
+    "Occurences": 1,
+    "Similar": {
+      "PRECISION3630": 1,
+      "PRECISION5820": 1,
+      "PRECISION7530": 1,
+      "PRECISIONM6600": 1,
+      "PRECISIONT1700": 1,
+      "PRECISIONT3620": 1,
+      "PRECISIONT5810": 1
+    }
+  },
+  "PRECISIONT5810": {
+    "Name": "PRECISIONT5810",
+    "Brand": "DELL",
+    "Occurences": 1,
+    "Similar": {
+      "PRECISION3630": 1,
+      "PRECISION5820": 1,
+      "PRECISION7530": 1,
+      "PRECISIONM6600": 1,
+      "PRECISIONT1700": 1,
+      "PRECISIONT3620": 1,
+      "PRECISIONT5510": 1
+    }
+  },
+  "PRISMAFLEX": {
+    "Name": "PRISMAFLEX",
+    "Brand": "HOSPAL",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "PRISMAFLEXII": {
+    "Name": "PRISMAFLEXII",
+    "Brand": "BAXTER",
+    "Occurences": 4,
+    "Similar": {
+      "PRISMAFLEX": 2
+    }
+  },
+  "PRISMATHERM": {
+    "Name": "PRISMATHERM",
+    "Brand": "HOSPAL",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "PRISMATHERM2": {
+    "Name": "PRISMATHERM2",
+    "Brand": "HOSPAL",
+    "Occurences": 3,
+    "Similar": {
+      "PRISMATHERM": 2
+    }
+  },
+  "PRISMAX": {
+    "Name": "PRISMAX",
+    "Brand": "BAXTER",
+    "Occurences": 6,
+    "Similar": {
+      "PRISMAFLEX": 2
+    }
+  },
+  "PROBOOK": {
+    "Name": "PROBOOK",
+    "Brand": "HEWLETT_PACKARD",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "PROBOOK4720S": {
+    "Name": "PROBOOK4720S",
+    "Brand": "HEWLETT_PACKARD",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "PROC": {
+    "Name": "PROC",
+    "Brand": "AMM_ORL",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "PRODESK600": {
+    "Name": "PRODESK600",
+    "Brand": "HEWLETT_PACKARD",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "PRONEO": {
+    "Name": "PRONEO",
+    "Brand": "FRESENIUS",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "PROPULSESERGO": {
+    "Name": "PROPULSESERGO",
+    "Brand": "CARDISPORT",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "PROSENTIA2000": {
+    "Name": "PROSENTIA2000",
+    "Brand": "ELONEX",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "PSG_AMPLIFIER": {
+    "Name": "PSG_AMPLIFIER",
+    "Brand": "SCHWARZER",
+    "Occurences": 7,
+    "Similar": {}
+  },
+  "PX3202M": {
+    "Name": "PX3202M",
+    "Brand": "OHAUS",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "QUADSCAN4000": {
+    "Name": "QUADSCAN4000",
+    "Brand": "FRANCE_MEDICA",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "RACETIME2": {
+    "Name": "RACETIME2",
+    "Brand": "MATSPORT",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "RECK": {
+    "Name": "RECK",
+    "Brand": "MOTOMED",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "REPARTITEUR": {
+    "Name": "REPARTITEUR",
+    "Brand": "ELIPSON",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "RESMON_PRO_FOT": {
+    "Name": "RESMON_PRO_FOT",
+    "Brand": "MGC_DIAGNOSTICS",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "RESPITRACE+": {
+    "Name": "RESPITRACE+",
+    "Brand": "MSR",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "RHINOMAT": {
+    "Name": "RHINOMAT",
+    "Brand": "MSE_ELECTRONIQUE",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "RMSESU2050": {
+    "Name": "RMSESU2050",
+    "Brand": "COVIDIEN",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "RT5000": {
+    "Name": "RT5000",
+    "Brand": "SMART_UPS",
+    "Occurences": 1,
+    "Similar": {
+      "T5500": 1
+    }
+  },
+  "RTDDX": {
+    "Name": "RTDDX",
+    "Brand": "MSE_ELECTRONIQUE",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "S755L": {
+    "Name": "S755L",
+    "Brand": "LIKO",
+    "Occurences": 1,
+    "Similar": {
+      "SR755L": 1
+    }
+  },
+  "SAM25": {
+    "Name": "SAM25",
+    "Brand": "MICROMED",
+    "Occurences": 1,
+    "Similar": {
+      "KITSAM25": 1
+    }
+  },
+  "SCALUP300": {
+    "Name": "SCALUP300",
+    "Brand": "SECA",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "SCAM30": {
+    "Name": "SCAM30",
+    "Brand": "SONY",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "SDGA": {
+    "Name": "SDGA",
+    "Brand": "SONY",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "SDLTM32": {
+    "Name": "SDLTM32",
+    "Brand": "MICROMED",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "SDM": {
+    "Name": "SDM",
+    "Brand": "SENTEC",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "SD_PLUS": {
+    "Name": "SD_PLUS",
+    "Brand": "MICROMED",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "SEC888": {
+    "Name": "SEC888",
+    "Brand": "SECA",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "SENTRI1200": {
+    "Name": "SENTRI1200",
+    "Brand": "MEDIDEV_SENTECH",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "SH-5001": {
+    "Name": "SH-5001",
+    "Brand": "SAEHAN",
+    "Occurences": 3,
+    "Similar": {}
+  },
+  "SIMPHONY": {
+    "Name": "SIMPHONY",
+    "Brand": "MEDELA",
+    "Occurences": 5,
+    "Similar": {}
+  },
+  "SK900": {
+    "Name": "SK900",
+    "Brand": "INTER_MEDICAL",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "SNC-EP580": {
+    "Name": "SNC-EP580",
+    "Brand": "SONY",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "SNCAHPOE1": {
+    "Name": "SNCAHPOE1",
+    "Brand": "SONY",
+    "Occurences": 4,
+    "Similar": {}
+  },
+  "SNCER521": {
+    "Name": "SNCER521",
+    "Brand": "SONY",
+    "Occurences": 4,
+    "Similar": {}
+  },
+  "SNCRZ25P": {
+    "Name": "SNCRZ25P",
+    "Brand": "SONY",
+    "Occurences": 3,
+    "Similar": {}
+  },
+  "SOLAR-BLUE": {
+    "Name": "SOLAR-BLUE",
+    "Brand": "LABORIE",
+    "Occurences": 1,
+    "Similar": {
+      "SOLAR-SILVER": 1
+    }
+  },
+  "SOLAR-SILVER": {
+    "Name": "SOLAR-SILVER",
+    "Brand": "EDIMEX",
+    "Occurences": 1,
+    "Similar": {
+      "SOLAR-BLUE": 1
+    }
+  },
+  "SPIRAIR": {
+    "Name": "SPIRAIR",
+    "Brand": "MEDISOFT",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "SPIRODOC": {
+    "Name": "SPIRODOC",
+    "Brand": "MIR",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "SPIRODYN": {
+    "Name": "SPIRODYN",
+    "Brand": "DYN'R",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "SPIRODYN'R": {
+    "Name": "SPIRODYN'R",
+    "Brand": "DYN'R",
+    "Occurences": 1,
+    "Similar": {
+      "SPIRODYN": 1,
+      "SPIRODYNRX": 1
+    }
+  },
+  "SPIRODYNRX": {
+    "Name": "SPIRODYNRX",
+    "Brand": "DYN'R",
+    "Occurences": 1,
+    "Similar": {
+      "SPIRODYN": 1,
+      "SPIRODYN'R": 1
+    }
+  },
+  "SPIROPRO": {
+    "Name": "SPIROPRO",
+    "Brand": "MSE_ELECTRONIQUE",
+    "Occurences": 4,
+    "Similar": {
+      "SPIRAIR": 1,
+      "SPIRODOC": 1,
+      "SPIRODYN": 1,
+      "SPIROTEQ": 1
+    }
+  },
+  "SPIROTEQ": {
+    "Name": "SPIROTEQ",
+    "Brand": "EOLYS",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "SPIROTEQ2": {
+    "Name": "SPIROTEQ2",
+    "Brand": "EOLYS",
+    "Occurences": 1,
+    "Similar": {
+      "SPIROTEQ": 1
+    }
+  },
+  "SR755L": {
+    "Name": "SR755L",
+    "Brand": "LIKO",
+    "Occurences": 1,
+    "Similar": {
+      "S755L": 1
+    }
+  },
+  "SSM14N5E": {
+    "Name": "SSM14N5E",
+    "Brand": "SONY",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "ST250": {
+    "Name": "ST250",
+    "Brand": "FUKUDA",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "STARSTIM": {
+    "Name": "STARSTIM",
+    "Brand": "NEUROELECTRICS",
+    "Occurences": 3,
+    "Similar": {
+      "MAGSTIM": 1
+    }
+  },
+  "STIMULATION": {
+    "Name": "STIMULATION",
+    "Brand": "OSG_BVBA_BRAINLAB",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "STIMULATORPLUS": {
+    "Name": "STIMULATORPLUS",
+    "Brand": "NEUROCONN",
+    "Occurences": 5,
+    "Similar": {
+      "DC-STIMULATION-PLUS": 1
+    }
+  },
+  "STIMULOPT": {
+    "Name": "STIMULOPT",
+    "Brand": "FRAMIRAL",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "STRASTIMNE001": {
+    "Name": "STRASTIMNE001",
+    "Brand": "NEUROELECTRICS",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "SUPERNOVA": {
+    "Name": "SUPERNOVA",
+    "Brand": "STEVER",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "SUUNTOT3": {
+    "Name": "SUUNTOT3",
+    "Brand": "MSE_ELECTRONIQUE",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "SWP2E": {
+    "Name": "SWP2E",
+    "Brand": "MSE_ELECTRONIQUE",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "SY.ACQVI": {
+    "Name": "SY.ACQVI",
+    "Brand": "SYNAPSYS",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "SY.ORDIP": {
+    "Name": "SY.ORDIP",
+    "Brand": "DELL",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "SY.VIBREURII": {
+    "Name": "SY.VIBREURII",
+    "Brand": "NEURO_SYNAPSYS",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "SYMPHONY": {
+    "Name": "SYMPHONY",
+    "Brand": "MEDELA",
+    "Occurences": 19,
+    "Similar": {
+      "SIMPHONY": 5
+    }
+  },
+  "SYSTEME-2000": {
+    "Name": "SYSTEME-2000",
+    "Brand": "FRAMIRAL",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "T170MT": {
+    "Name": "T170MT",
+    "Brand": "DELL",
+    "Occurences": 3,
+    "Similar": {}
+  },
+  "T5500": {
+    "Name": "T5500",
+    "Brand": "SEMCO",
+    "Occurences": 1,
+    "Similar": {
+      "RT5000": 1,
+      "T7500": 1
+    }
+  },
+  "T7500": {
+    "Name": "T7500",
+    "Brand": "DELL",
+    "Occurences": 1,
+    "Similar": {
+      "T5500": 1
+    }
+  },
+  "TANITA": {
+    "Name": "TANITA",
+    "Brand": "NM_MEDICAL",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "TDE201209": {
+    "Name": "TDE201209",
+    "Brand": "GAMBRO",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "TE551A": {
+    "Name": "TE551A",
+    "Brand": "TECO",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "TESTE": {
+    "Name": "TESTE",
+    "Brand": "ODIL",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "TESTOMATECO": {
+    "Name": "TESTOMATECO",
+    "Brand": "GAMBRO",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "THERA6TRAINER_TIGO": {
+    "Name": "THERA6TRAINER_TIGO",
+    "Brand": "THERATRAINER",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "THERAJOY": {
+    "Name": "THERAJOY",
+    "Brand": "PROTEOR",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "TITAN": {
+    "Name": "TITAN",
+    "Brand": "INTERACOUSTICS",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "TLC120A": {
+    "Name": "TLC120A",
+    "Brand": "TANITA",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "TOP2000": {
+    "Name": "TOP2000",
+    "Brand": "BELLCO",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "TRIGNO": {
+    "Name": "TRIGNO",
+    "Brand": "DELSYS",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "TRUETRACE": {
+    "Name": "TRUETRACE",
+    "Brand": "NATUS",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "TURBOVAPLV": {
+    "Name": "TURBOVAPLV",
+    "Brand": "CALIPER",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "TYPE900/44": {
+    "Name": "TYPE900/44",
+    "Brand": "NUMELEC",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "U2410": {
+    "Name": "U2410",
+    "Brand": "DELL",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "ULTIMACPX": {
+    "Name": "ULTIMACPX",
+    "Brand": "MSE_ELECTRONIQUE",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "ULTIMADERAL": {
+    "Name": "ULTIMADERAL",
+    "Brand": "BRAEBON_MEDICAL",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "ULTRASHARP": {
+    "Name": "ULTRASHARP",
+    "Brand": "DELL",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "UPPG4": {
+    "Name": "UPPG4",
+    "Brand": "ESM",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "UPS1400": {
+    "Name": "UPS1400",
+    "Brand": "APC",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "URODYN1000": {
+    "Name": "URODYN1000",
+    "Brand": "DANTEC",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "USB": {
+    "Name": "USB",
+    "Brand": "MICROMET",
+    "Occurences": 3,
+    "Similar": {}
+  },
+  "UWAM": {
+    "Name": "UWAM",
+    "Brand": "SYSMEX",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "V62J": {
+    "Name": "V62J",
+    "Brand": "MSE_ELECTRONIQUE",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "VARIOAIR3": {
+    "Name": "VARIOAIR3",
+    "Brand": "ATMOS",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "VARIOTHERM+": {
+    "Name": "VARIOTHERM+",
+    "Brand": "ATMOS",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "VAS500": {
+    "Name": "VAS500",
+    "Brand": "NOVACARE",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "VENACC": {
+    "Name": "VENACC",
+    "Brand": "FRESENIUS",
+    "Occurences": 1,
+    "Similar": {
+      "VENNACC": 1
+    }
+  },
+  "VENNACC": {
+    "Name": "VENNACC",
+    "Brand": "FRESENIUS",
+    "Occurences": 1,
+    "Similar": {
+      "VENACC": 1
+    }
+  },
+  "VG2000": {
+    "Name": "VG2000",
+    "Brand": "MIJNHARDT",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "VGNTX2XB": {
+    "Name": "VGNTX2XB",
+    "Brand": "SONY",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "VHIT_ULMER": {
+    "Name": "VHIT_ULMER",
+    "Brand": "SYNAPSYS",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "VIDEOHANDY3200ACQ": {
+    "Name": "VIDEOHANDY3200ACQ",
+    "Brand": "MICROMED",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "VIKINGEDX4C+": {
+    "Name": "VIKINGEDX4C+",
+    "Brand": "MAG2HEALTH",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "VIRTUOSO": {
+    "Name": "VIRTUOSO",
+    "Brand": "LINET",
+    "Occurences": 17,
+    "Similar": {}
+  },
+  "VISIO": {
+    "Name": "VISIO",
+    "Brand": "SYNAPSYS",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "VISUREP": {
+    "Name": "VISUREP",
+    "Brand": "RBI",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "VIVA2": {
+    "Name": "VIVA2",
+    "Brand": "MOBILE",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "VIVACAM": {
+    "Name": "VIVACAM",
+    "Brand": "MAVIG_GMBH",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "VMAX": {
+    "Name": "VMAX",
+    "Brand": "MSE_ELECTRONIQUE",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "VMAX29CSPECTRA": {
+    "Name": "VMAX29CSPECTRA",
+    "Brand": "MSE_ELECTRONIQUE",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "VNGULMER": {
+    "Name": "VNGULMER",
+    "Brand": "SYNAPSYS",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "VNS3X": {
+    "Name": "VNS3X",
+    "Brand": "SYNAPSYS",
+    "Occurences": 2,
+    "Similar": {}
+  },
+  "VTBAL10": {
+    "Name": "VTBAL10",
+    "Brand": "SIM_RADIO",
+    "Occurences": 3,
+    "Similar": {}
+  },
+  "VYNTUS_BODY": {
+    "Name": "VYNTUS_BODY",
+    "Brand": "TSC",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "WAVE10": {
+    "Name": "WAVE10",
+    "Brand": "BIOMETRICS",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "WEBDEV1": {
+    "Name": "WEBDEV1",
+    "Brand": "PC_SOFT",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "WHAD100": {
+    "Name": "WHAD100",
+    "Brand": "SA3I",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "X127010W71MT1": {
+    "Name": "X127010W71MT1",
+    "Brand": "DELL",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "XPS": {
+    "Name": "XPS",
+    "Brand": "GE_HEALTHCARE",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "XX000011": {
+    "Name": "XX000011",
+    "Brand": "AIR_LIQUIDE_MEDICAL",
+    "Occurences": 2,
+    "Similar": {
+      "XX00011": 1
+    }
+  },
+  "XX00011": {
+    "Name": "XX00011",
+    "Brand": "AIR_LIQUIDE_MEDICAL",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "Z-METRIX": {
+    "Name": "Z-METRIX",
+    "Brand": "BIOPHARHOM",
+    "Occurences": 1,
+    "Similar": {
+      "ZMETRIX": 1
+    }
+  },
+  "Z230": {
+    "Name": "Z230",
+    "Brand": "HEWLETT_PACKARD",
+    "Occurences": 1,
+    "Similar": {}
+  },
+  "Z9021B0103": {
+    "Name": "Z9021B0103",
+    "Brand": "MEDI_7",
+    "Occurences": 1,
+    "Similar": {
+      "MED9021B0103": 1
+    }
+  },
+  "ZMETRIX": {
+    "Name": "ZMETRIX",
+    "Brand": "BIOPARHOM",
+    "Occurences": 1,
+    "Similar": {
+      "Z-METRIX": 1
+    }
+  },
+  "ZS2": {
+    "Name": "ZS2",
+    "Brand": "SODIPRHO",
+    "Occurences": 1,
+    "Similar": {}
+  }
+}
