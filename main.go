@@ -18,10 +18,10 @@ func main() {
 	//return
 	ClearScreenHard()
 	file = LoadCSV(InputFilename)
-	MatchAndAskCol(file, modIndex)
+	//MatchAndAskCol(file, modIndex)
 	//ExtractAndSaveLibMod(file)
 	//ExtractSimAndSaveLibMod(file)
-	//ExtractSimAndAskMod(file)
+	ExtractSimAndAskMod(file)
 	//file.Save(outputFilename)
 }
 func ExtractAndSaveLibMod(file *File) {
@@ -84,7 +84,7 @@ func ExtractSimAndAskMod(file *File) {
 	var dictMod = ExtractMod(file)
 	var mods = SortMap(dictMod)
 	var m = SimMod(file, mods)
-	HandleSims(file, m)
+	HandleSims(file, m) // perfomrs the asking
 
 	file.Save(OutputFilename)
 }
