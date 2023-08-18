@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Carl Moulinette</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <!-- <script src='main.js' defer></script> -->
+    <style>
+        .data {
+            font-family: 'Courier New', Courier, monospace;
+            margin-top: 20px;
+            margin-bottom: 20px;
+            padding: 4px;
+            background-color: rgba(128, 128, 128, 0.118);
+        }
+    </style>
+</head>
+
+<body style="height: 100%">
+    <h1>Carl Moulinette</h1>
+
+    <input id="input_id" type="file">
+    <button type="button" onclick="blur(); on_click()">Scan file</button>
+
+    <div class="data" id="data_id">
+        <pre>Please select csv file</pre>
+    </div>
+    <button type="button" onclick="blur(); on_previous()">Previous</button><button type="button"
+        onclick="blur(); on_next()">Next</button>
+</body>
+<script>
+    const sep = ';';
+
+    /** @type {HTMLDivElement} */
+    const terminal = document.getElementById('data_id');
+    /** @type {HTMLInputElement} */
+    const input = document.getElementById('input_id');
+
+    /**
+     * @typedef {Object} file
+     * @property {string[]} headers
+     * @property {Map<string, string>[]} rows
+     */
+
+    /**
+     * @typedef {Object} mod_entry
+     * @property {string} mod
+     * @property {Map<string, int>} brands
+     * 
+     * @typedef {mod_entry[]} sim_group
+     */
+
+    /**
+     * @typedef {Object} global
+     * @property {file} file
+     * @property {sim_group[]} sims
+     * @property {int} longest_mod
+     * @property {int} max_sims
+     * 
+     * @typedef {mod_entry[]} sim_group
+     */
+
+    /** @type {int} */
+    var Index = -1
+
+    /** @type {global} */
+    var global = {
+        file: null,
+        sims: null,
+        longest_mod: -1,
+        max_sims: -1,
+    };
+
+    function blur() {
+        document.activeElement?.blur();
+    }
+
+    /**
+     * from https://www.30secondsofcode.org/js/s/levenshtein-distance/
+     * @param {string} s 
+     * @param {string} t 
+     * @returns {int}
+     */
+    const levenshteinDistance = (s, t) => {
+        if (!s.length) return t.length;
+        if (!t.length) return s.length;
+        const arr = [];
+        for (let i = 0; i <= t.length; i++) {
+            arr[i] = [i];
+            for (let j = 1; j <= s.length; j++) {
+                arr[i][j] =
+                    i === 0
+                        ? j
+                        : Math.min(
+                            arr[i - 1][j] + 1,
+                            arr[i][j - 1] + 1,
+                            arr[i - 1][j - 1] + (s[j - 1] === t[i - 1] ? 0 : 1)
+                        );
+            }
+        }
+        return arr[t.length][s.length];
+    };
+
+    /**
+     * @param {string} a 
+     * @param {string} b 
+     * 
+     * @returns {boolean}
+     */
+    function are_sim(a, b) {
+        const l = levenshteinDistance(a, b);
+        const m = Math.max(a.length, b.length);
+        return (1.0 - l / m) * 100.0 > 60;
+    }
+
+    /** @param {string} data  */
+    function set_terminal(data) {
+        terminal.innerHTML = '<pre>' + data + '</pre>';;
+    }
+
+    function on_previous() {
+        if (Index <= 0) return;
+        Index--;
+        on_index_change();
+    }
+
+    function on_next() {
+        if (Index < 0) return;
+        Index++;
+        on_index_change();
+    }
+
+    addEventListener("keydown", (event) => {
+        //console.log(event.code)
+        switch (event.code) {
+            case 'Enter':
+                on_next();
+                break;
+            case 'Backspace':
+                on_previous();
+        }
+    });
+
+    /**
+     * @param {string[]} headers 
+     * @param {string} line 
+     * 
+     * @returns {Map<string, string>}
+     */
+    function parse_line_to_map(headers, line) {
+        const m = new Map();
+        line.split(sep).forEach((cell, i) => {
+            m.set(headers[i], cell);
+        });
+        return m;
+    }
+
+    /**
+     * @param {string} data
+     * 
+     * @return {file}
+    */
+    function parse_file(data) {
+        // remove any \r or \t just to be sure, the regex itself is \t|\r
+        let raw_lines = data.replaceAll(/\t|\r/g, '').split('\n');
+
+        if (raw_lines[raw_lines.length - 1].length === 0) {
+            raw_lines = raw_lines.slice(0, raw_lines.length - 1);
+        }
+
+        const file = {};
+        file['headers'] = raw_lines[0].split(sep);
+        file['rows'] = raw_lines.slice(1).map(line => parse_line_to_map(file.headers, line));
+        return file;
+    }
+
+    /**
+     * @param {file} file 
+     * @param {int} modCol
+     * @param {int} brandCol
+     * 
+     * @returns {Map<string, Map<string, int>>}
+     */
+    function extract_mod(file, modCol, brandCol) {
+        const headerMod = file.headers[modCol];
+        const headerBrand = file.headers[brandCol];
+
+        const m = new Map();
+        file.rows.forEach(row => {
+            const cell = row.get(headerMod)
+            const brand = row.get(headerBrand)
+
+            if (!m.has(cell)) {
+                const mm = new Map();
+                mm.set(brand, 1)
+                m.set(cell, mm);
+                return;
+            }
+
+            const mm = m.get(cell);
+            if (!mm.has(brand)) {
+                mm.set(brand, 1);
+                return;
+            }
+            mm.set(brand, mm.get(brand) + 1);
+        });
+
+        m.values()
+        return m
+    }
+
+    /**
+     * @param {Map<string, Map<string, int>} mods
+     * 
+     * @returns {sim_group[]}
+     */
+    function create_sim_groups(mods) {
+        const sims = []// as sim_group[]
+
+        mods.forEach((brands, mod) => {
+            const mod_entry = { mod: mod, brands: brands };
+
+            let i = 0;
+            for (; i < sims.length; i++) {
+                const sim = sims[i];
+                if (sim.some(mod_e => are_sim(mod_e.mod, mod))) {
+                    sim.push(mod_entry);
+                    break;
+                }
+            }
+
+            if (i === sims.length) {
+                let x = []
+                x.push(mod_entry)
+                sims.push(x);
+            }
+        });
+        return sims;
+    }
+
+    function on_click() {
+        terminal.innerHTML = ' ';
+
+        const fileList = input.files;
+        if (!fileList || fileList.length !== 1 || !fileList[0].type.endsWith('csv')) {
+            file_error();
+            return;
+        }
+        set_terminal('Reading file, please wait...');
+        const raw_file = fileList[0];
+
+        const reader = new FileReader();
+        reader.addEventListener('load', (event) => {
+            const data = event.target.result;
+            set_terminal('Parsing data...');
+            const file = parse_file(data);
+            on_file_loaded(file);
+        });
+        reader.readAsBinaryString(raw_file);
+    }
+
+    function file_error() {
+        alert('Please select a valid csv file.');
+    }
+
+    /** @param {file} file */
+    function on_file_loaded(file) {
+        const v = extract_mod(file, 5, 1);
+        const sims = create_sim_groups(v);
+
+        let lMod = 0;
+        const modHead = file.headers[5];
+        file.rows.forEach(row => { lMod = Math.max(lMod, row.get(modHead).length) });
+
+        let lsims = 0;
+        sims.forEach(sim => { lsims = Math.max(lsims, sim.length) });
+
+        set_terminal('File parsed and ready!');
+
+        global.file = file;
+        global.sims = sims;
+        global.longest_mod = lMod;
+        global.max_sims = lsims;
+        console.log(global);
+
+        Index = 0;
+        prev_index = -2;
+        on_index_change();
+    }
+
+    var prev_index = -2;
+
+    function on_index_change() {
+        if (global.sims == null || global.sims == null) return;
+        let d = Math.sign(Index - prev_index);
+
+        while (Index >= 0 && Index < global.sims.length && global.sims[Index].length === 1 && global.sims[Index].every(mod_entry => mod_entry.brands.size === 1)) {
+            Index += d;
+        }
+        prev_index = Index;
+        if (Index < 0) {
+            Index = 0;
+            on_index_change();
+            return;
+        }
+        if (Index >= global.sims.length) {
+            Index = global.sims.length;
+            set_terminal('No entries left !');
+            return;
+        }
+
+        const sim = global.sims[Index];
+        set_terminal(render_sim(sim));
+    }
+
+    /** 
+     * @param {sim_group} sim
+     * 
+     * @returns {string}
+     * */
+    function render_sim(sim) {
+        return `${Index}/${global.sims.length} ( ${Number(Index / global.sims.length * 100).toFixed(2)}% )
+
+${reduce_sim(sim)}
+You can either see next or previous similar groups by pressing 'enter' or 'backspace'.`;
+    }
+
+    /** @param {sim_group} sim  */
+    function reduce_sim(sim) {
+        let ret = '';
+        let i = 0;
+        sim.forEach(mod_entry => { ret += `<b>${(mod_entry.mod ? mod_entry.mod : '[NO MODEL]').padStart(global.longest_mod)}</b> | ${reduce_mod_brands(mod_entry.brands)}\n`; i++ });
+        ret += '\n'.repeat(global.max_sims - i);
+        return ret;
+    }
+
+    /** @param {Map<string, int>} brands  */
+    function reduce_mod_brands(brands) {
+        let ret = 'brands: ';
+        brands.forEach((occ, brand) => { ret += `<b>${brand ? brand : '[NO BRAND]'}</b> (occ. ${occ}), `; });
+        return ret.substring(0, ret.length - 2);
+    }
+</script>
+</html>
